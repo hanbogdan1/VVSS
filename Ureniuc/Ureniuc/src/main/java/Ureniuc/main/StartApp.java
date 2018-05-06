@@ -1,0 +1,103 @@
+package Ureniuc.main;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.ArrayList;
+import java.util.LinkedList;
+import java.util.List;
+
+import Ureniuc.model.Nota;
+import Ureniuc.utils.ClasaException;
+
+import Ureniuc.model.Corigent;
+import Ureniuc.model.Medie;
+
+import Ureniuc.controller.NoteController;
+
+//functionalitati
+//i.	 adaugarea unei note la o anumita materie (nr. matricol, materie, nota acordata); 
+//ii.	 calcularea mediilor semestriale pentru fiecare elev (nume, nr. matricol), 
+//iii.	 afisarea elevilor coringenti, ordonati descrescator dupa numarul de materii la care nu au promovat şi alfabetic dupa nume.
+
+
+public class StartApp {
+	public static void main(String[] args) throws ClasaException {
+		// TODO Auto-generated method stub
+		NoteController ctrl = new NoteController();
+		List<Medie> medii = new LinkedList<Medie>();
+		List<Corigent> corigenti = new ArrayList<Corigent>();
+		//ctrl.readElevi(args[0]);
+		//ctrl.readNote(args[1]);
+		ctrl.readElevi("elevi.txt");
+		ctrl.readNote("note.txt");
+		ctrl.creeazaClasa(ctrl.getElevi(), ctrl.getNote());
+		boolean gasit = false;
+		while(!gasit) {
+			System.out.println("1. Adaugare Nota");
+			System.out.println("2. Calculeaza medii");
+			System.out.println("3. Elevi corigenti");
+			System.out.println("4. Iesire");
+			BufferedReader br = new BufferedReader(new InputStreamReader(System.in) );
+		    try {
+				int option = Integer.parseInt(br.readLine());
+				switch(option) {
+				case 1: addNota(ctrl, br);
+						break;
+				case 2: medii = ctrl.calculeazaMedii();
+						for(Medie medie:medii)
+							System.out.println(medie);
+						break;
+				case 3: corigenti = ctrl.getCorigenti();
+						for(Corigent corigent:corigenti)
+							System.out.println(corigent);
+						break;
+				case 4: gasit = true;
+						break;
+				default: System.out.println("Introduceti o optiune valida!");
+				}
+				
+			} catch (NumberFormatException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		}
+	}
+
+	static void addNota(NoteController ctrl, BufferedReader br){
+		System.out.println("Introduceti nr. matricol elev: ");
+		int nr_matr = 0;
+		try {
+			nr_matr = Integer.parseInt(br.readLine());
+		} catch (Exception e) {
+			System.out.println("Nr. matr. trebuie sa fie nr. intreg!");
+			addNota(ctrl, br);
+		}
+
+		System.out.println("Introduceti materie: ");
+		String materie = "";
+		try {
+			materie = br.readLine();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+
+		System.out.println("Introduceti nota: ");
+		double nota = 0.0;
+		try {
+			nota = Double.parseDouble(br.readLine());
+		} catch (IOException e) {
+			System.out.println("Nota trebuie sa fie nr. real pozitiv!");
+			addNota(ctrl, br);
+		}
+
+		try {
+			ctrl.addNota(new Nota(nr_matr, materie, nota));
+		} catch (ClasaException e) {
+			System.out.println(e.getMessage());
+		}
+	}
+}
