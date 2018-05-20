@@ -96,8 +96,8 @@ public class StartApp {
 
 		try {
 			ctrl.addNota(new Nota(nr_matr, materie, nota));
-		} catch (ClasaException e) {
-			System.out.println(e.getMessage());
+		} catch (Exception e) {
+			e.printStackTrace();
 		}
 	}
 }

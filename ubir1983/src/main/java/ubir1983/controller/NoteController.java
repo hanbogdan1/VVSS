@@ -27,6 +27,8 @@ public class NoteController {
 	}
 	
 	public void addNota(Nota nota) throws ClasaException {
+		if (nota.getNota() > 10)
+			throw new ClasaException("dasd");
 		note.addNota(nota);
 	}
 	
