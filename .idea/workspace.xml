@@ -2,118 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6a1fce1-6fcc-455b-8e94-299e3c6e6af7" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitattributes" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/.idea/compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/.idea/libraries/Maven__gvir1871MV_gvir1871.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/.idea/libraries/Maven__junit_junit_4_12.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/Diagram.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/Diagram.uml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/Docs/Lab01/DiagramNote_v2.0.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/Docs/Lab01/Lab01_ReviewReport.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/Docs/Lab01/RequirementsNote_v2.0.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/Docs/Lab01/~$Lab01_ReviewReport.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/Ureniuc.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/elevi.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/note.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/src/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/src/.idea/src.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/src/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/src/main/java/Ureniuc/controller/NoteController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/src/main/java/Ureniuc/main/StartApp.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/src/main/java/Ureniuc/model/Corigent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/src/main/java/Ureniuc/model/Elev.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/src/main/java/Ureniuc/model/Medie.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/src/main/java/Ureniuc/model/Nota.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/src/main/java/Ureniuc/repository/ClasaRepository.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/src/main/java/Ureniuc/repository/ClasaRepositoryMock.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/src/main/java/Ureniuc/repository/EleviRepository.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/src/main/java/Ureniuc/repository/EleviRepositoryMock.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/src/main/java/Ureniuc/repository/NoteRepository.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/src/main/java/Ureniuc/repository/NoteRepositoryMock.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/src/main/java/Ureniuc/utils/ClasaException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/src/main/java/Ureniuc/utils/Constants.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/src/test/java/Ureniuc/AddNotaTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/src/test/java/Ureniuc/CalculeazaMediiTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/src/test/java/Ureniuc/GetCorigentiTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/src/test/java/Ureniuc/IntegrationTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/target/classes/Ureniuc/controller/NoteController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/target/classes/Ureniuc/main/StartApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/target/classes/Ureniuc/model/Corigent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/target/classes/Ureniuc/model/Elev.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/target/classes/Ureniuc/model/Medie.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/target/classes/Ureniuc/model/Nota.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/target/classes/Ureniuc/repository/ClasaRepository.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/target/classes/Ureniuc/repository/ClasaRepositoryMock.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/target/classes/Ureniuc/repository/EleviRepository.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/target/classes/Ureniuc/repository/EleviRepositoryMock.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/target/classes/Ureniuc/repository/NoteRepository.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/target/classes/Ureniuc/repository/NoteRepositoryMock.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/target/classes/Ureniuc/utils/ClasaException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/target/classes/Ureniuc/utils/Constants.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/target/test-classes/Ureniuc/AddNotaTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/target/test-classes/Ureniuc/CalculeazaMediiTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/target/test-classes/Ureniuc/GetCorigentiTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ureniuc- L1/Ureniuc/target/test-classes/Ureniuc/IntegrationTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubir1983/.idea/compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubir1983/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubir1983/.idea/libraries/Maven__gvir1871MV_gvir1871.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubir1983/.idea/libraries/Maven__junit_junit_4_12.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubir1983/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubir1983/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubir1983/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubir1983/.idea/uiDesigner.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubir1983/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubir1983/Diagram.uml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubir1983/elevi.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubir1983/gvir1871.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubir1983/note.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubir1983/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubir1983/src/main/java/ubir1983/controller/NoteController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubir1983/src/main/java/ubir1983/main/StartApp.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubir1983/src/main/java/ubir1983/model/Corigent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubir1983/src/main/java/ubir1983/model/Elev.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubir1983/src/main/java/ubir1983/model/Medie.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubir1983/src/main/java/ubir1983/model/Nota.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubir1983/src/main/java/ubir1983/repository/ClasaRepository.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubir1983/src/main/java/ubir1983/repository/ClasaRepositoryMock.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubir1983/src/main/java/ubir1983/repository/EleviRepository.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubir1983/src/main/java/ubir1983/repository/EleviRepositoryMock.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubir1983/src/main/java/ubir1983/repository/NoteRepository.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubir1983/src/main/java/ubir1983/repository/NoteRepositoryMock.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubir1983/src/main/java/ubir1983/utils/ClasaException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubir1983/src/main/java/ubir1983/utils/Constants.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubir1983/src/test/java/ubir1983/AddNotaTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubir1983/src/test/java/ubir1983/CalculeazaMediiTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubir1983/src/test/java/ubir1983/GetCorigentiTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubir1983/src/test/java/ubir1983/IntegrationBBTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubir1983/src/test/java/ubir1983/IntegrationTDTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubir1983/target/classes/ubir1983/controller/NoteController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubir1983/target/classes/ubir1983/main/StartApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubir1983/target/classes/ubir1983/model/Corigent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubir1983/target/classes/ubir1983/model/Elev.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubir1983/target/classes/ubir1983/model/Medie.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubir1983/target/classes/ubir1983/model/Nota.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubir1983/target/classes/ubir1983/repository/ClasaRepository.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubir1983/target/classes/ubir1983/repository/ClasaRepositoryMock.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubir1983/target/classes/ubir1983/repository/EleviRepository.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubir1983/target/classes/ubir1983/repository/EleviRepositoryMock.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubir1983/target/classes/ubir1983/repository/NoteRepository.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubir1983/target/classes/ubir1983/repository/NoteRepositoryMock.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubir1983/target/classes/ubir1983/utils/ClasaException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubir1983/target/classes/ubir1983/utils/Constants.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubir1983/target/test-classes/ubir1983/AddNotaTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubir1983/target/test-classes/ubir1983/CalculeazaMediiTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubir1983/target/test-classes/ubir1983/GetCorigentiTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubir1983/target/test-classes/ubir1983/IntegrationBBTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ubir1983/target/test-classes/ubir1983/IntegrationTDTest.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ubir1983/.idea/workspace.xml" afterPath="$PROJECT_DIR$/ubir1983/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_0_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_0_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_0_0.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__gvir1871MV_gvir1871.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gvir1871.iml" afterPath="$PROJECT_DIR$/gvir1871.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -146,8 +43,18 @@
       <file leaf-file-name="AddNotaTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ubir1983/AddNotaTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+            <state relative-caret-position="187">
+              <caret line="41" column="21" lean-forward="false" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="20" column="32" lean-forward="false" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -163,7 +70,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CalculeazaMediiTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CalculeazaMediiTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ubir1983/CalculeazaMediiTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-442">
@@ -219,6 +126,7 @@
         <option value="$PROJECT_DIR$/src/main/java/ubir1983/main/StartApp.java" />
         <option value="$PROJECT_DIR$/src/main/java/ubir1983/controller/NoteController.java" />
         <option value="$PROJECT_DIR$/src/test/java/ubir1983/AddNotaTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -228,11 +136,21 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
     <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -296,7 +214,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -564,7 +482,7 @@
       <workItem from="1526829482137" duration="50000" />
       <workItem from="1526829541568" duration="1000" />
       <workItem from="1526829866843" duration="57000" />
-      <workItem from="1526829927839" duration="56000" />
+      <workItem from="1526829927839" duration="580000" />
     </task>
     <servers />
   </component>
@@ -601,10 +519,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5028000" />
+    <option name="totallyTimeSpent" value="5552000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -615,7 +534,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33878887" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -916,14 +835,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-550">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ubir1983/GetCorigentiTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1649">
@@ -975,14 +886,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ubir1983/AddNotaTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ubir1983/IntegrationTDTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
@@ -995,6 +898,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-442">
           <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ubir1983/AddNotaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="41" column="21" lean-forward="false" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="20" column="32" lean-forward="false" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
           <folding />
         </state>
       </provider>
