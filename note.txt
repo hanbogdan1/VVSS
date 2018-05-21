@@ -126,3 +126,12 @@
 1000;Matematica;10.0
 1;Materie1;10.0
 1;Materie1;10.0
+1;Informatica;2.0
+1;Sport;1.0
+1000;Matematica;10.0
+999;Matematica;10.0
+1000;Matematica;10.0
+1;Materie1;10.0
+1000;Matematica;10.0
+1;Materie1;10.0
+1;Materie1;10.0
